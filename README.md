@@ -1,6 +1,6 @@
 # C++ Metaprogramming for NN Compilation
 
-**English** | [中文](README.md)
+[English](README_EN.md) | **中文**
 
 這是一個展示如何使用 C++ Metaprogramming 技術來實現神經網路編譯器的簡單可執行範例專案。
 
