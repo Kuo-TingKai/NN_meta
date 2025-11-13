@@ -1,6 +1,13 @@
 # Benchmark 比較報告
 
+[English](benchmark_comparison_report_EN.md) | **中文**
+
 ## C++ Metaprogramming vs PyTorch 性能比較
+
+## 📚 相關文檔
+
+- 🏠 [專案主頁](README.md) - 專案概述和使用說明
+- 📖 [C++ 核心技術 Cheat Sheet](CXX_CHEATSHEET.md) - 詳細的 C++ 技術參考
 
 ### 測試環境
 - **C++ 編譯器**: AppleClang 17.0.0 (使用 -O3 優化)

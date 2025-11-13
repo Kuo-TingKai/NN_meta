@@ -1,6 +1,13 @@
 # C++ 核心技術 Cheat Sheet
 
+[English](CXX_CHEATSHEET_EN.md) | **中文**
+
 本專案使用的 C++ 核心技術快速參考表
+
+## 📚 相關文檔
+
+- 🏠 [專案主頁](README.md) - 專案概述和使用說明
+- 📊 [Benchmark 比較報告](benchmark_comparison_report.md) - 性能比較分析
 
 ## 目錄
 - [Template Metaprogramming](#template-metaprogramming)

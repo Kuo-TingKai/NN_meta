@@ -1,6 +1,13 @@
 # C++ Metaprogramming for NN Compilation
 
+**English** | [中文](README.md)
+
 這是一個展示如何使用 C++ Metaprogramming 技術來實現神經網路編譯器的簡單可執行範例專案。
+
+## 📚 相關文檔
+
+- 📖 [C++ 核心技術 Cheat Sheet](CXX_CHEATSHEET.md) - 詳細的 C++ 技術參考
+- 📊 [Benchmark 比較報告](benchmark_comparison_report.md) - 性能比較分析
 
 ## 專案概述
 
@@ -126,7 +133,7 @@ LinearLayer<float, 3, 2> layer;  // 3 輸入 -> 2 輸出
 
 本專案使用了大量現代 C++ 技術，詳細的技術參考請查看：
 
-📖 **[C++ 核心技術 Cheat Sheet](CXX_CHEATSHEET.md)**
+📖 **[C++ 核心技術 Cheat Sheet](CXX_CHEATSHEET.md)** | [English](CXX_CHEATSHEET_EN.md)
 
 包含以下技術的詳細說明和範例：
 - Template Metaprogramming
@@ -163,6 +170,8 @@ LinearLayer<float, 3, 2> layer;  // 3 輸入 -> 2 輸出
 ## Benchmark 比較
 
 本專案包含與主流深度學習框架（PyTorch）的 benchmark 比較功能。
+
+📊 **[詳細 Benchmark 報告](benchmark_comparison_report.md)** | [English](benchmark_comparison_report_EN.md)
 
 ### 運行 Benchmark
 
