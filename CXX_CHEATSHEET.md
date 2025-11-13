@@ -227,7 +227,7 @@ class BinaryExpression : public ExpressionBase<BinaryExpression<LHS, RHS, Op>> {
 
 ---
 
-**最後更新**: 2024-11-13  
+**最後更新**: 2025-11-13  
 **C++ 標準**: C++20  
 **編譯器要求**: GCC 10+, Clang 10+, MSVC 2019+
 
